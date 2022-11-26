@@ -1,0 +1,136 @@
+Vehicle Rental System Created For Navi Travels
+
+1.Add Branch 2.Add Vehicle 3.Book 4.Display Vehicle 5.Exit
+
+1
+Enter Branch Name
+
+B1
+How Many Types of Vehicle in Branch
+
+3
+Enter Types of Vehicle[BUS,CAR,VAN,BIKE,SCOOTY]
+
+CAR
+VAN
+BIKE
+TRUE
+1.Add Branch 2.Add Vehicle 3.Book 4.Display Vehicle 5.Exit
+
+2
+Enter Branch Name:
+B1
+Enter Types of Vehicle[BUS,CAR,VAN,BIKE,SCOOTY]:
+CAR
+Enter Vehicle Name
+V1
+Enter vehicle price
+500
+TRUE
+1.Add Branch 2.Add Vehicle 3.Book 4.Display Vehicle 5.Exit
+
+2
+Enter Branch Name:
+B1
+Enter Types of Vehicle[BUS,CAR,VAN,BIKE,SCOOTY]:
+CAR
+Enter Vehicle Name
+V2
+Enter vehicle price
+1000
+TRUE
+1.Add Branch 2.Add Vehicle 3.Book 4.Display Vehicle 5.Exit
+
+2
+Enter Branch Name:
+B1
+Enter Types of Vehicle[BUS,CAR,VAN,BIKE,SCOOTY]:
+BIKE
+Enter Vehicle Name
+V3
+Enter vehicle price
+250
+TRUE
+1.Add Branch 2.Add Vehicle 3.Book 4.Display Vehicle 5.Exit
+
+2 
+Enter Branch Name:
+B1
+Enter Types of Vehicle[BUS,CAR,VAN,BIKE,SCOOTY]:
+BIKE
+Enter Vehicle Name
+V4
+Enter vehicle price
+300
+TRUE
+1.Add Branch 2.Add Vehicle 3.Book 4.Display Vehicle 5.Exit
+
+2
+Enter Branch Name:
+B1
+Enter Types of Vehicle[BUS,CAR,VAN,BIKE,SCOOTY]:
+BUS
+Enter Vehicle Name
+V5
+Enter vehicle price
+2500
+FALSE
+1.Add Branch 2.Add Vehicle 3.Book 4.Display Vehicle 5.Exit
+
+3
+Enter Branch Name
+B1
+Enter Types of Vehicle[BUS,CAR,VAN,BIKE,SCOOTY]
+VAN
+Enter Start Time[1 to 23]
+1
+Enter End Time [2 to 24]
+5
+-1
+1.Add Branch 2.Add Vehicle 3.Book 4.Display Vehicle 5.Exit
+
+3
+Enter Branch Name
+B1
+Enter Types of Vehicle[BUS,CAR,VAN,BIKE,SCOOTY]
+CAR
+Enter Start Time[1 to 23]
+1
+Enter End Time [2 to 24]
+3
+1000
+1.Add Branch 2.Add Vehicle 3.Book 4.Display Vehicle 5.Exit
+
+3
+Enter Branch Name
+B1
+Enter Types of Vehicle[BUS,CAR,VAN,BIKE,SCOOTY]
+BIKE
+Enter Start Time[1 to 23]
+2
+Enter End Time [2 to 24]
+3
+250
+1.Add Branch 2.Add Vehicle 3.Book 4.Display Vehicle 5.Exit
+
+3
+Enter Branch Name
+B1
+Enter Types of Vehicle[BUS,CAR,VAN,BIKE,SCOOTY]
+BIKE
+Enter Start Time[1 to 23]
+2
+Enter End Time [2 to 24]
+5
+900
+1.Add Branch 2.Add Vehicle 3.Book 4.Display Vehicle 5.Exit
+
+4
+Enter Branch Name
+B1
+Enter Start Time[1 to 23]
+1
+Enter End Time [2 to 24]
+5
+V2 CAR 1000
+1.Add Branch 2.Add Vehicle 3.Book 4.Display Vehicle 5.Exit
